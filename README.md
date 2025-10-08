@@ -255,10 +255,3 @@ Interpretation tips:
 ## License & contact
 
 This repo is provided as-is for experimentation. If you want patches, CI, or a packaged Dockerfile for a reproducible environment, I can produce them.
-
-If you want, I can:
-- produce `dockerfile` / `requirements.txt`,
-- add a `--mode` flag to `trainer_anonymizer.py` to select adapter vs vanilla training,
-- add a small Streamlit demo for drag & drop inference.
-
-Which of those would you like next?
